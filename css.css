@@ -1,0 +1,23 @@
+body {
+
+}
+div.one {
+    float: right;
+}
+ul.one {
+    float: right;
+    margin-right: 300px;
+}
+
+img {
+    width: 480px;
+    height: 650px;
+}
+h1 {
+   text-align: center;
+
+}
+h2 {
+    text-align: center;
+
+}
